@@ -1,0 +1,84 @@
+/* CSS for Feedback component */
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+
+    
+    margin-top: 10%;
+  }
+  
+  .form-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f0f0f0;
+    padding: 20px;
+    width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin-bottom: 20px;
+  }
+  
+  .ft1 {
+    font-size: 24px;
+    font-family:cursive ;
+    margin-bottom: 20px;
+  }
+  
+  .fi1,
+  .data-input,
+  .fi2 {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .fb1 {
+    width: 100%;
+    padding: 12px;
+    background-color: #207c0e;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .fb1:hover {
+    background-color: #1d640e;
+  }
+  
+  .route-btn-1 {
+    background-color: transparent;
+    border: none;
+    font-size: 30px; 
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  .route-btn-1:focus {
+    outline: none;
+  }
+  
+  /* Toaster */
+  .toast {
+    background-color: #333;
+    color: #fff;
+    border-radius: 4px;
+    padding: 10px;
+    font-size: 14px;
+  }
+  .app{
+    background-image:url("https://tse3.mm.bing.net/th?id=OIP.JNFIN6xCyBOeuqOvhTyLIgHaEo&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  }
+  
