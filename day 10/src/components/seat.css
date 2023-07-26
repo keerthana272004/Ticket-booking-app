@@ -1,0 +1,26 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.dcol1{
+    width: 33%;
+    text-align: right;
+}
+.dcol2{
+    width: 33%;
+    text-align: center;
+}
+.dcol3{
+    width: 33%;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+.but{
+    padding: 10px 30px 10px 30px;
+    border: none;
+    border-radius: 10px;
+    background-color: brown;
+    color: white;
+
+}

@@ -1,0 +1,40 @@
+#pre-head {
+ text-align: center;
+}
+
+.card .card-img {
+  margin: 50px 0px 0px 50px;
+  max-width: 50%;
+  border-radius: 20%;
+}
+
+.card .card-title {
+ margin-left:50px;
+}
+
+.card .btn-primary {
+ margin-left: 50px;
+}
+.crow{
+  flex-wrap: wrap;
+  display: flex;
+  width: 100%; 
+}
+ .ccol1{
+  width: 50%;
+ text-align: center;
+}
+.ccol2{
+  width: 50%;
+  text-align: center;
+}
+
+.card-img
+{
+  height: 350px;
+  width: 300px;
+}
+.info{
+  margin-left: 20px;
+  margin-top: 10px;
+}
