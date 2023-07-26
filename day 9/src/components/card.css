@@ -1,0 +1,20 @@
+.align{
+        align-items: center; 
+        margin-left: 370px; 
+        display: flex;
+        margin-top: 25  0px;
+    }
+    
+    .move{
+    margin-left:40px ;
+}
+.move .a:hover{
+    opacity: 6;
+    box-shadow:-5px 10px ;
+color: rgb(92, 88, 88);
+}
+.align .d:hover{
+    opacity: 6;
+    box-shadow: -5px 10px;
+    color: rgb(92, 88, 88);
+}
